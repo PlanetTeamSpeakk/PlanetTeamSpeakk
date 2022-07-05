@@ -1,6 +1,6 @@
 ### About me
 I'm an 18 yo developer from The Netherlands who mainly focuses on Java and especially in the category of Minecraft.  
-I mostly work on my Minecraft mod [MoreCommands](https://github.com/PlanetTeamSpeakk/MoreCommands) and plugins for my Minecraft server [AquiferMC](https://aquifermc.com) and as a result of this, my main expertise lies with commands  
+I mostly work on my Minecraft mod [MoreCommands](https://github.com/PlanetTeamSpeakk/MoreCommands) and plugins for my Minecraft server AquiferMC (now defunct) and as a result of this, my main expertise lies with commands  
 
 I am currently learning C# as I've always wanted to know *at least* one C-language since they are in general the most powerful languages in regard to OS-level stuff.  
 
